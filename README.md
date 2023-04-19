@@ -29,3 +29,4 @@ Welcome to the Awesome AI Resources repository! This repository is a collection 
 - [paperswithcode](paperswithcode.com)
 - [keras.io](https://keras.io/examples/)
 - [Assemblyai](https://www.assemblyai.com/)
+- [Hugging Face](huggingface.co)
