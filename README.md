@@ -5,44 +5,27 @@ Welcome to the Awesome AI Resources repository! This repository is a collection 
 ## Table of Contents
 
 - [Articles](#articles)
-- [Tutorials](#tutorials)
-- [Tools](#tools)
-- [Books](#books)
-- [Courses](#courses)
-- [Videos](#videos)
+- [Description](#description)
 - [Repositories](#repositories)
+- [Website](#website)
 
 ## Articles
 
-- [Example article 1](https://www.example.com/article1) - A brief description of the article.
-- [Example article 2](https://www.example.com/article2) - A brief description of the article.
+- [GPT4 AI](https://www.linkedin.com/posts/asifrazzaq_gpt4-ai-largelanguagemodels-activity-7054175551615336448-Gnn1?utm_source=share&utm_medium=member_desktop) - A brief description of the article.
 
-## Tutorials
+## Description
 
-- [Example tutorial 1](https://www.example.com/tutorial1) - A brief description of the tutorial.
-- [Example tutorial 2](https://www.example.com/tutorial2) - A brief description of the tutorial.
-
-## Tools
-
-- [Example tool 1](https://www.example.com/tool1) - A brief description of the tool.
-- [Example tool 2](https://www.example.com/tool2) - A brief description of the tool.
-
-## Books
-
-- [Example book 1](https://www.example.com/book1) - A brief description of the book.
-- [Example book 2](https://www.example.com/book2) - A brief description of the book.
-
-## Courses
-
-- [Example course 1](https://www.example.com/course1) - A brief description of the course.
-- [Example course 2](https://www.example.com/course2) - A brief description of the course.
-
-## Videos
-
-- [Example video 1](https://www.example.com/video1) - A brief description of the video.
-- [Example video 2](https://www.example.com/video2) - A brief description of the video.
+- [OpenAi|Whisper](https://docs.openvino.ai/latest/notebooks/227-whisper-subtitles-generation-with-output.html) - A brief description of the tutorial.
 
 ## Repositories
 
-- [Example repository 1](https://github.com/exampleuser/repository1) - A brief description of the repository.
-- [Example repository 2](https://github.com/exampleuser/repository2) - A brief description of the repository.
+- [awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - A brief description of the repository.
+- [omnivore](https://github.com/facebookresearch/omnivore) - A brief description of the repository.
+- [Real-ESRGAN ncnn Vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)
+- [whisper](https://github.com/openai/whisper)
+
+## Website
+
+- [paperswithcode](paperswithcode.com)
+- [keras.io](https://keras.io/examples/)
+- [Assemblyai](https://www.assemblyai.com/)
